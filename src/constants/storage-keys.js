@@ -1,0 +1,2 @@
+export const STORE_TOKEN = 'TOKEN';
+export const STORE_FIREBASE_TOKEN = "FIREBASE_TOKEN";

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755489561682",
+    "firebase_url": "https://nextime-f7db6.firebaseio.com",
+    "project_id": "nextime-f7db6",
+    "storage_bucket": "nextime-f7db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755489561682:android:4fb97bb85f9aa91ae1138b",
+        "android_client_info": {
+          "package_name": "com.nextimemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755489561682-177acmdtud5sjclffl5cgi9hdqq1lcgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzKVwZQZgs2espaScfk7FDkcl86u2rxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755489561682-177acmdtud5sjclffl5cgi9hdqq1lcgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
